@@ -19,7 +19,7 @@ body {
 
 /* ── Header ────────────────────────────────── */
 header {
-  background-color: #1a73e8;   /* ← Try changing this colour */
+  background-color: #7b2fbe;   /* ← Try changing this colour */
   color: white;
   text-align: center;
   padding: 60px 20px;
@@ -50,10 +50,10 @@ section {
 }
 
 section h2 {
-  color: #1a73e8;
+  color: #7b2fbe;
   margin-bottom: 15px;
   font-size: 1.5rem;
-  border-bottom: 2px solid #e8f0fe;
+  border-bottom: 2px solid #f3e8ff;
   padding-bottom: 8px;
 }
 
@@ -67,8 +67,8 @@ section h2 {
 }
 
 .skills ul li {
-  background-color: #e8f0fe;
-  color: #1a73e8;
+  background-color: #f3e8ff;
+  color: #7b2fbe;
   padding: 6px 16px;
   border-radius: 20px;
   font-size: 0.95rem;
@@ -88,7 +88,7 @@ section h2 {
 footer {
   text-align: center;
   padding: 30px;
-  background-color: #1a73e8;
+  background-color: #7b2fbe;
   color: white;
   font-size: 0.9rem;
   margin-top: 40px;
